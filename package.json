@@ -1,0 +1,24 @@
+{
+  "name": "@mariaav/codelyTV-JS-modern-course",
+  "version": "1.0.0",
+  "description": "**Work in progress**",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaAdrover/codelyTV-JS-modern-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaAdrover/codelyTV-JS-modern-course/issues"
+  },
+  "homepage": "https://github.com/MariaAdrover/codelyTV-JS-modern-course#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
